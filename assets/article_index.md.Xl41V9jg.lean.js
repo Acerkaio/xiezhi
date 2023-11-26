@@ -1,0 +1,3 @@
+import{_ as t,o as n,c as o,k as e}from"./chunks/framework.-3ULgdun.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{"layout":"doc"},"headers":[],"relativePath":"article/index.md","filePath":"article/index.md"}'),a={name:"article/index.md"},c=e("p",null,"“诗者，志之所之也。在心为志，发言为诗。”诗不仅是一种文学体裁，更是寄寓情思的精神符号。诗见证“感”，诗记录“思”。而诗集便是众多“感”与“思”的荟萃。 獬豸诗集中的诗，或起于斐然横溢的文采，或源于汪洋肆意的真情，或发于深刻精炼的哲思，但无一不是獬豸众人的心语。诗中，他们于尘微中窥见星海，于坎坷中收获成长，于万象中得到启迪。獬豸诗集必为獬豸众人心中灿烂的回忆、美好的青春印记。 笔者万分荣幸为獬豸诗集作序，特此代獬豸众人谢徐师的谆谆教诲，谢各工作人员的辛苦付出，谢诸位诗人的用心重视。 诗集以诗为辑，便以诗为引，且看：",-1),s=e("blockquote",null,[e("pre",null,[e("code",null,`   万种才思诗中寄，几行妙语志以凝。
+   若待他年见此集，当忆今时笑语情。
+`)])],-1),r=[c,s];function l(d,i,_,p,u,m){return n(),o("div",null,r)}const x=t(a,[["render",l]]);export{h as __pageData,x as default};
